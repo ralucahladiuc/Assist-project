@@ -1,0 +1,54 @@
+{
+  "articles": [
+    [
+      {
+        "id": 1,
+        "thumbnail": "https://assist-software.net/sites/default/files/styles/promoted_larger/public/promoted_images/blog/How_to_Integrate_an_Identity_Server_with_Keycloak_in_NET_Web_APIs_Sebastian_Fulga_ASSIST_Software_fHD.png?itok=HLhmWUIQ",
+        "title": "How to Integrate an Identity Server with Keycloak in .NET Web APIs",
+        "href": "https://assist-software.net/blog/how-integrate-identity-server-keycloak-net-web-apis",
+        "author": "Sebastian Fulga",
+        "content": "This article is meant for developers or solution architects who want to integrate an Identity Server in their application. Keycloak is an open-source Identity Server and Access..."
+      },
+      {
+        "id": 2,
+        "thumbnail": "https://assist-software.net/sites/default/files/styles/promoted_larger/public/promoted_images/blog/Easy%20Gateway%20Payment%20Integration%20with%20Stripe%20%281%29.png?itok=osxi4rCt",
+        "title": "Easy Gateway Payment Integration with Stripe",
+        "href": "https://assist-software.net/blog/easy-gateway-payment-integration-stripe",
+        "author": "Razvan  Prundel",
+        "content": "Buying and selling goods on the internet most often involves an intermediary called a payment gateway. PayPal is a payment gateway example, but it’s not the one some of the..."
+      },
+      {
+        "id": 3,
+        "thumbnail": "https://assist-software.net/sites/default/files/styles/promoted_larger/public/promoted_images/blog/The%20Seven%20Teams%20of%20Software%20Innovation%20%281%29.png?itok=MKqbKmxx",
+        "title": "The Seven Teams of Software Innovation at Best Innovative Minds 2022",
+        "href": "https://assist-software.net/blog/seven-teams-software-innovation-best-innovative-minds-2022",
+        "author": "Crina Voloseniuc",
+        "content": "When software development needs a boost of innovation, ASSIST Software comes forth with the perfect challenge."
+      },
+      {
+        "id": 4,
+        "thumbnail": "https://assist-software.net/sites/default/files/styles/promoted_larger/public/promoted_images/blog/How%20to%20create%20an%20AWS%20Cognito%20custom%20UI%20authentication%20with%20React%20using%20Amplify.png?itok=z_CkjcZv",
+        "title": "How to create an AWS Cognito custom UI authentication with React using Amplify",
+        "href": "https://assist-software.net/blog/how-create-aws-cognito-custom-ui-authentication-react-using-amplify",
+        "author": "Ruben Ilciuc",
+        "content": "Cognito is an Amazon Cognito is an Amazon Web Services product that makes it simple to add user sign-up and authentication to your mobile and web apps. User-end data is saved..."
+      },
+      {
+        "id": 5,
+        "thumbnail": "https://assist-software.net/sites/default/files/styles/promoted_larger/public/promoted_images/blog/ASSIST%20Software%20Weather%20Plugin%20Real-time%20%281%29.png?itok=Nw_s1GEW",
+        "title": "Real-time Weather PRO: The weather plugin that enhances your Unity project",
+        "href": "https://assist-software.net/blog/real-time-weather-pro-weather-plugin-enhances-your-unity-project",
+        "author": "Cătălin Zambalic",
+        "content": "Looking for the best weather plugin for Unity? The Real-Time Weather PRO Plugin is an efficient tool to obtain real-time weather/maritime data in..."
+      },
+      {
+        "id": 6,
+        "thumbnail": "https://assist-software.net/sites/default/files/styles/promoted_larger/public/promoted_images/blog/Weather%20Asset%20Unity%20Plugin%20ASSIST%20Software.png?itok=R6zEcuNB",
+        "title": "Real-Time Weather Plugin for Unity",
+        "href": "https://assist-software.net/blog/real-time-weather-plugin-unity",
+        "author": "Cătălin Zambalic",
+        "content": "The Real-Time Weather Plugin for Unity is an efficient tool to obtain real-time weather data in Unity and process the data to simulate a full environment..."
+      }
+    ]
+  ]
+}
